@@ -1,25 +1,13 @@
-## Hi there 👋
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehddnjs444)](https://solved.ac/dlehddnjs444)
 # 안녕하세요, 이동원입니다 👋
-
-백엔드 개발을 중심으로 IoT와 실시간 통신 기술을 공부하고 있는  
-컴퓨터과학 전공 개발자입니다.
-
-Spring Boot 기반의 서버 개발뿐만 아니라  
-WebRTC, MQTT, Raspberry Pi를 활용하여  
-소프트웨어와 하드웨어가 연결되는 서비스를 개발하고 있습니다.
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 상명대학교 컴퓨터과학과 재학 중
-- 💻 Spring Boot 기반 백엔드 개발
-- 🏠 IoT 장치와 웹 서버를 연결하는 스마트홈 프로젝트 진행 중
-- 📡 WebRTC, WebSocket, MQTT 기반 실시간 통신에 관심
-- 🐳 Docker와 GitHub Actions를 활용한 배포 자동화 경험
-- 🌱 안정적인 서버 구조와 유지보수하기 좋은 코드를 공부하고 있습니다
+🧩 Algorithm
 
+[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=백준아이디&v=2&streak=true)](https://solved.ac/profile/백준아이디)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehddnjs444)](https://solved.ac/dlehddnjs444)
 ---
 
 ## 🛠 Tech Stack
