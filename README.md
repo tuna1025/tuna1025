@@ -6,7 +6,6 @@
 - 🎓 상명대학교 컴퓨터과학과 재학 중
 
 
----
 ## 🎓 Education & Activities
 
 ### Education
@@ -161,14 +160,14 @@ GPT 기반 식단 분석을 통해 식단을 기록하고 관리하며
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=tuna1025&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=21600"
-    alt="Dongwon's GitHub stats"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuna1025&theme=tokyonight"
+    alt="GitHub Stats"
   />
 
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuna1025&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=21600"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuna1025&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
