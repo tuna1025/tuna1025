@@ -6,7 +6,7 @@
 - 🎓 상명대학교 컴퓨터과학과 재학 중
 🧩 Algorithm
 
-[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=백준아이디&v=2&streak=true)](https://solved.ac/profile/백준아이디)
+[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=dlehddnjs444&v=2&streak=true)](https://solved.ac/profile/dlehddnjs444)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehddnjs444)](https://solved.ac/dlehddnjs444)
 ---
 
