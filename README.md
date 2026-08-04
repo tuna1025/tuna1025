@@ -4,8 +4,29 @@
 ## 👨‍💻 About Me
 
 - 🎓 상명대학교 컴퓨터과학과 재학 중
-- 멋쟁이사자처럼 2025.03 ~ 2025.12
-- UMC 2025.09 ~ 2026.02
+
+
+---
+## 🎓 Education & Activities
+
+### Education
+
+- 상명대학교 컴퓨터과학과
+- 2021.03 ~ 재학 중
+- 학사 졸업 예정: 2027년 2월
+
+### Activities
+
+| 활동 | 기간 | 담당 |
+|---|---:|---|
+| 멋쟁이사자처럼 | 2025.03 ~ 2025.12 | Spring Boot 백엔드 개발 |
+| UMC | 2025.09 ~ 2026.02 | Spring Boot 백엔드 개발 |
+
+### Certifications
+
+- 정보처리기사
+- 자동차운전면허 1종 보통
+
 
 ## 🧩 Algorithm
 
@@ -133,27 +154,6 @@ GPT 기반 식단 분석을 통해 식단을 기록하고 관리하며
 
 🔗 [GitHub Organization](https://github.com/ONMOIOM)
 
----
-
-## 🎓 Education & Activities
-
-### Education
-
-- 상명대학교 컴퓨터과학과
-- 2021.03 ~ 재학 중
-- 학사 졸업 예정: 2027년
-
-### Activities
-
-| 활동 | 기간 | 담당 |
-|---|---:|---|
-| 멋쟁이사자처럼 | 2025.03 ~ 2025.12 | Spring Boot 백엔드 개발 |
-| UMC | 2025.09 ~ 2026.02 | Spring Boot 백엔드 개발 |
-
-### Certifications
-
-- 정보처리기사
-- 자동차운전면허 1종 보통
 
 ---
 
