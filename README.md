@@ -161,13 +161,13 @@ GPT 기반 식단 분석을 통해 식단을 기록하고 관리하며
 <p align="center">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tuna1025&theme=tokyonight"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api?username=tuna1025&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="Dongwon's GitHub stats"
   />
 
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuna1025&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuna1025&layout=compact&hide_border=true&theme=tokyonight"
     alt="Top Languages"
   />
 </p>
